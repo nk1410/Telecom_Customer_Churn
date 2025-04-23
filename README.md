@@ -56,9 +56,3 @@ Customer churn is a critical issue for telecom companies as it directly impacts 
 ## 📜 References
 - Telecom Customer Churn Dataset
 - Scikit-Learn, Power BI, SQL Server Documentation
-
----
-✅ **Author**: Nikita Jagtap  
-📧 **Contact**: [Your Email or LinkedIn]  
-🌟 **GitHub Repository**: [Add Your Repo Link]
-
